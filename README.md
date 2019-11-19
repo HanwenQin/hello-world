@@ -1,4 +1,7 @@
 # hello-world
 a new one
-
-qinhanwen :a freshmen to github
+it is no good
+first 
+second 
+third
+fourth
